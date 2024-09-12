@@ -1,8 +1,8 @@
 ---
-name: Device maintainership form
+name: Device maintainership form of Project Mist OS
 about: Apply for official maintainership
 title: New maintainer
-assignees: [Zabuka Zuzu, YadavMohit19, anuragbhaumik]
+assignees: [ShukakuZa, ZabukaZuzu, Envoy_Z, gamerTech76, lazyDev-ak] 
 ---
 
 
@@ -59,3 +59,5 @@ No.
 ```
 Your Telegram username
 ```
+
+## Ping Us On Telegram For Fast Process...

@@ -1,4 +1,4 @@
-# To become an official maintainer for Project Altho:
+# To become an official maintainer for Project MistOS:
 
 Before you apply to add your device into our list of official devices, you should know a few things:
 
