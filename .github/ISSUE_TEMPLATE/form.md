@@ -2,7 +2,7 @@
 name: Device maintainership form of Project Mist OS
 about: Apply for official maintainership
 title: New maintainer
-assignees: [ShukakuZa, ZabukaZuzu, Envoy_Z, gamerTech76, lazyDev-ak, JYRRC] 
+assignees: [ShukakuZa, ZabukaZuzu, Hexdare, gamerTech76, lazyDev-ak, JYRRC, Mayur-U] 
 ---
 
 
@@ -60,4 +60,4 @@ No.
 Your Telegram username
 ```
 
-## Ping @JYR_RC On Telegram For Fast Process...
+## Ping @Hexdare - @Mayur_U On Telegram For Fast Process...
