@@ -1,4 +1,4 @@
-![Mist]([https://github.com/Project-Mist-OS/manifest/blob/15-wip/assets/Banner.webp])
+<img src="https://github.com/Project-Mist-OS/manifest/blob/15-wip/assets/Banner.webp" alt="MistOS Banner" width="100%">
 # <b> <i> MistOS | Built with </i>💖
 
 # Official Devices MistOS
