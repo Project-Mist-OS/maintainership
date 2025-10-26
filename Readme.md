@@ -1,4 +1,4 @@
-![Mist]([https://github.com/Project-Mist-OS/manifest/blob/13.1/assets/Banner2.jpg](https://github.com/Project-Mist-OS/manifest/blob/15-wip/assets/Banner.webp))
+![Mist]([https://github.com/Project-Mist-OS/manifest/blob/15-wip/assets/Banner.webp])
 # <b> <i> MistOS | Built with </i>💖
 
 # Official Devices MistOS
