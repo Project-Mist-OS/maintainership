@@ -64,16 +64,13 @@ Prebuilt kernels are only allowed if **no working kernel sources exist**. Shippi
 **3. No Personal/Unofficial Builds on Official Channels** — 🟠 L2
 Maintainers **MUST NOT** release personal, test, or unofficial builds through the official device community channels. Official channels are strictly for MistOS official releases only.
 
-**4. Builds via Jenkins Only** — 🔴 L1
-Maintainers can only release builds compiled on the **Jenkins instance provided by MistOS**. SourceForge access will not be provided to any maintainer — all uploads are handled exclusively by Jenkins automation.
-
-**5. Trees Must Be Pushed to MistOS Devices Org** — 🔴 L1
+**4. Trees Must Be Pushed to MistOS Devices Org** — 🔴 L1
 Maintainers **MUST** push and maintain their trees on the **official MistOS devices organization on GitHub**. This is required for Jenkins to function correctly.
 
-**6. Force Pushes** — 🟡 L3
+**5. Force Pushes** — 🟡 L3
 Force-pushing or destructive history rewrites to trees are not recommended. If absolutely necessary, notify the team beforehand to avoid silently breaking Jenkins builds.
 
-**7. OTA Commit Message Format** — 🟠 L2
+**6. OTA Commit Message Format** — 🟠 L2
 All OTA commits must follow the format below strictly:
 
 ```
@@ -84,37 +81,37 @@ All OTA commits must follow the format below strictly:
 
 Incorrect commit messages will be flagged and must be corrected before the build goes live.
 
-**8. Changelog Requirement** — 🔴 L1
+**7. Changelog Requirement** — 🔴 L1
 Every release **MUST** include a changelog. Known bugs must be documented and made accessible to users. Releasing without a changelog is not acceptable.
 
-**9. Release Cadence** — 🟠 L2
+**8. Release Cadence** — 🟠 L2
 Maintainers are expected to release builds at a reasonable and consistent frequency. If **2 consecutive updates are missed without any prior communication to the team**, the maintainer may be removed **without notice**.
 
-**10. Community Reputation** — 🟠 L2
+**9. Community Reputation** — 🟠 L2
 Maintainers must hold a good reputation in the community. Reports of blind building, misrepresenting build quality, or improper behavior will result in a warning and potential removal if repeated.
 
 ---
 
 ### 🗣️ Conduct Rules
 
-**11. Respect Toward Core Team Members** — 🔴 L1
+**10. Respect Toward Core Team Members** — 🔴 L1
 Maintainers **MUST** communicate politely and respectfully with all core team members at all times. The following are strictly prohibited:
 - Racism or discriminatory language of any kind
 - Spamming the same request repeatedly — a reminder after a reasonable time is acceptable, repeated spamming is not
 
-**12. Respect Toward Fellow Maintainers** — 🟠 L2
+**11. Respect Toward Fellow Maintainers** — 🟠 L2
 All maintainers must treat each other with respect in the group. Personal matters, grudges, or disputes between individuals are **not** to be brought into the maintainers group.
 
-**13. Language in Maintainers Group** — 🟠 L2
+**12. Language in Maintainers Group** — 🟠 L2
 All conversations related to **device issues, source problems, or technical reports** must be in **English**. Off-topic conversations may be in any language.
 
-**14. Respond to Announcements & Tags** — 🟠 L2
+**13. Respond to Announcements & Tags** — 🟠 L2
 Maintainers are required to respond to announcements, polls, and direct tags in the maintainers group. A response is not expected immediately but should be provided **as soon as reasonably possible**.
 
-**15. Inactive Maintainer Notice** — 🟠 L2
+**14. Inactive Maintainer Notice** — 🟠 L2
 If a maintainer is going to be unavailable for an extended period, they **MUST** inform the team in advance. Going silent for **30+ days without any notice** will trigger a warning and potential removal.
 
-**16. Personal Matters in Group** — 🟡 L3
+**15. Personal Matters in Group** — 🟡 L3
 Maintainers are advised not to discuss or disclose personal matters in the maintainers group. Keep the group focused and professional.
 
 ---
